@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LpQ-eAgu)
 # 프로젝트
 이번 과제에서는 머신러닝의 핵심 개념들을 코드로 직접 구현하며 깊이 있게 학습합니다. **Confusion Matrix**를 이용한 모델 성능 분석, **Convexity** 개념이 **Optimization**에 미치는 영향, 그리고 **Softmax**와 **Logistic Regression**을 활용한 이미지 분류 모델링을 다룹니다.
 
